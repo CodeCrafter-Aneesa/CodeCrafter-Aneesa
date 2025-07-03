@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeCrafter-Aneesa
+- 👋 Hi, I’m Aneesa Zakria
 - 👀 I’m interested in building my programming portfolio and exploring new technologies.
 - 🌱 I’m currently learning C++language(If you find mistakes in my code please let me know).
 - 💞️ I’m looking to collaborate on open-source projects, coding challenges, and innovative ideas. 
